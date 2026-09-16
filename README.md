@@ -37,9 +37,9 @@ applications and leveraging technology for social impact.
 | Project | Tech | Description |
 |---------|------|-------------|
 | [SPPG Mapping & Monitoring](https://www.sismonbgn.com) | Laravel, PHP, UI/UX | Web-based system for Badan Gizi Nasional — system design, UI/UX, and production deployment |
-| Employee Activity Monitoring | Laravel, Python, API | Real-time dashboard with automated device activity capture via Python scripts |
+| Employee Activity Monitoring | Laravel, Python, API, GO | Real-time dashboard with automated device activity capture via Python scripts |
 | Tactile Book with Audio | Web, Android, 3D | QR-based inclusive education tool — 3D models, audio, Android app |
-| [Portfolio Website](https://github.com/aryahafsah/Portofolio) | HTML, CSS, JS | Bilingual (EN/ID) personal portfolio with typewriter & scroll animations |
+| [Portfolio Website](https://github.com/aryahafsah/Portofolio) | HTML, CSS, GO | Bilingual (EN/ID) personal portfolio with typewriter & scroll animations |
 
 ---
 
