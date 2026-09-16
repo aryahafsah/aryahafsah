@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/-aryahafsah-181717?style=flat-square&logo=github)](https://github.com/aryahafsah)
 [![Email](https://img.shields.io/badge/-hafsaharya@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hafsaharya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya%20Hafsah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-hafsah/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ARYA%20HAFSAH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-hafsah/)
 
 ---
 
@@ -100,6 +100,5 @@ applications and leveraging technology for social impact.
 
 [![Email](https://img.shields.io/badge/Email-hafsaharya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafsaharya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aryahafsah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryahafsah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya%20Hafsah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-hafsah/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ARYA%20HAFSAH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-hafsah/)
 </div>
